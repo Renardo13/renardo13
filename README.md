@@ -27,6 +27,7 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c++-original.svg" width="48" alt="C++" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git">
