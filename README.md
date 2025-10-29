@@ -28,7 +28,9 @@ This project blends **low-level programming**, **geometry**, and **data handling
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
    <div style="display:flex;flex-wrap:wrap;gap:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" alt="Qt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"><img src="https://cdn.worldvectorlogo.com/logos/assembly.svg" width="48" alt="ASM"><img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='128'%20height='128'%20viewBox='0%200%20128%20128'%3E%3Crect%20rx='16'%20ry='16'%20width='128'%20height='128'%20fill='%23006663'/%3E%3Ccircle%20cx='64'%20cy='56'%20r='22'%20fill='%2300a79b'/%3E%3Cpath%20d='M64%2032v8M64%2084v8M40%2064h8M88%2064h8M49%2049l5.5%205.5M74.5%2074.5l5.5%205.5M49%2079l5.5-5.5M74.5%2039.5l5.5-5.5'%20stroke='%23004842'%20stroke-width='4'/%3E%3Ctext%20x='64'%20y='106'%20font-family='Arial'%
 
-</div>
+</br/div>
+
+---
 
 **Other skills:** gdb, valgrind, sockets, Makefiles, CI (GitHub Actions), algorithmic thinking & complexity.
 
