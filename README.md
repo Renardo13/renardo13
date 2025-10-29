@@ -33,6 +33,7 @@ This project blends **low-level programming**, **geometry**, and **data handling
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux">
 </div>
+
 **Other skills:** gdb, valgrind, sockets, Makefiles, CI (GitHub Actions), algorithmic thinking & complexity.
 
 ---
