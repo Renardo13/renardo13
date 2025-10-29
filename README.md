@@ -1,4 +1,4 @@
-# 👋 Hey there — I'm <Renard> <renardo13>)
+# 👋 Hey there — I'm Renard (@renardo13)
 
 I’m a **42 student** and a **passionate developer** with a strong interest in **offensive security**, **reverse engineering**, and **low-level programming**.  
 I love learning how systems work — and how to make them **more secure**.
@@ -48,8 +48,8 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<renardo13>&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<renardo13>&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renardo13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renardo13&layout=compact&theme=tokyonight)
 
 ---
 
