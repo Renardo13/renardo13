@@ -40,8 +40,6 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renardo13&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renardo13&layout=compact&theme=tokyonight)
 
 ---
