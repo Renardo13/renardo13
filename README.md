@@ -26,13 +26,8 @@ This project blends **low-level programming**, **geometry**, and **data handling
 ## 🧰 Tech Stack
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c++-original.svg" width="48" alt="C++" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux">
+   <div style="display:flex; flex-wrap:wrap; gap:12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c++-original.svg" width="48" alt="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" alt="Qt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"><img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='slategray'/%3E%3Ctext%20x='50%25'%20y='50%25'%20font-size='36'%20fill='white'%20dominant-baseline='middle'%20text-anchor='middle'%3EASM%3C/text%3E%3C/svg%3E" width="48" alt="ASM"><img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='teal'/%3E%3Ctext%20x='50%25'%20y='50%25'%20font-size='28'%20fill='white'%20dominant-baseline='middle'%20text-anchor='middle'%3ECAD%3C/text%3E%3C/svg%3E" width="48" alt="CAD"><img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3Crect%20width='100%25'%20height='100%25'%20fill='indigo'/%3E%3Ctext%20x='50%25'%20y='50%25'%20font-size='20'%20fill='white'%20dominant-baseline='middle'%20text-anchor='middle'%3EGCODE%3C/text%3E%3C/svg%3E" width="48" alt="GCODE"></div>
+
 </div>
 
 **Other skills:** gdb, valgrind, sockets, Makefiles, CI (GitHub Actions), algorithmic thinking & complexity.
