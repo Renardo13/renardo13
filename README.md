@@ -26,7 +26,6 @@ This project blends **low-level programming**, **geometry**, and **data handling
 ## 🧰 Tech Stack
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" >C
   </div>
   <div align="center">
