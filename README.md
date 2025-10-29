@@ -34,7 +34,6 @@ This project blends **low-level programming**, **geometry**, and **data handling
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux">
 <img src="https://cdn.worldvectorlogo.com/logos/assembly.svg" width="48" alt="ASM">
-<img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" width="48" alt="CAD">
 </div>
 
 **Other skills:** gdb, valgrind, sockets, Makefiles, CI (GitHub Actions), algorithmic thinking & complexity.
