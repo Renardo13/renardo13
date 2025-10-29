@@ -34,11 +34,8 @@ This project blends **low-level programming**, **geometry**, and **data handling
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux">
 <img src="https://cdn.worldvectorlogo.com/logos/assembly.svg" width="48" alt="ASM">
-<img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='128'%20height='128'%20viewBox='0%200%20128%20128'%3E%3Crect%20rx='16'%20ry='16'%20width='128'%20height='128'%20fill='%23006663'/%3E%3Ccircle%20cx='64'%20cy='56'%20r='22'%20fill='%2300a79b'/%3E%3Cpath%20d='M64%2032v8M64%2084v8M40%2064h8M88%2064h8M49%2049l5.5%205.5M74.5%2074.5l5.5%205.5M49%2079l5.5-5.5M74.5%2039.5l5.5-5.5'%20stroke='%23004842'%20stroke-width='4'/%3E%3Ctext%20x='64'%20y='106'%20font-family='Arial'%20font-size='26'%20fill='%23ffffff'%20text-anchor='middle'%3ECAD%3C/text%3E%3C/svg%3E" width="48" alt="CAD">
-<img src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='128'%20height='128'%20viewBox='0%200%20128%20128'%3E%3Crect%20rx='16'%20ry='16'%20width='128'%20height='128'%20fill='%233a2db3'/%3E%3Crect%20x='20'%20y='36'%20width='88'%20height='20'%20fill='%234566f2'/%3E%3Cpath%20d='M24%2088c8-18%2060-18%2068%200'%20stroke='%23ffffff'%20stroke-width='6'%20fill='none'/%3E%3Ctext%20x='64'%20y='104'%20font-family='Arial'%20font-size='20'%20fill='%23ffffff'%20text-anchor='middle'%3EGCODE%3C/text%3E%3C/svg%3E" width="48" alt="GCODE">
+<img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" width="48" alt="CAD">
 </div>
-
----
 
 **Other skills:** gdb, valgrind, sockets, Makefiles, CI (GitHub Actions), algorithmic thinking & complexity.
 
