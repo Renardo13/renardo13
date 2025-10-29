@@ -1,4 +1,4 @@
-# 👋 Hey there — I'm <Your First Name> (<your-github-username>)
+# 👋 Hey there — I'm <Renard> <renardo13>)
 
 I’m a **42 student** and a **passionate developer** with a strong interest in **offensive security**, **reverse engineering**, and **low-level programming**.  
 I love learning how systems work — and how to make them **more secure**.
@@ -7,7 +7,7 @@ I love learning how systems work — and how to make them **more secure**.
 
 ## 💡 Currently Working On
 🧰 Developing a **CNC control software** that:
-- Automates the cutting and profiling of raw materials  
+- Automates the cutting key code for differents mecanisms such as tubular, dimple key, etc.
 - Generates optimized toolpaths for shaping parts  
 - Collects and updates **production data in JSON** for database integration  
 
@@ -64,8 +64,8 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<renardo13>&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<renardo13>&layout=compact&theme=tokyonight)
 
 ---
 
