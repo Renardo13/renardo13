@@ -34,18 +34,6 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ---
 
-## 📂 Featured Projects
-- **libft** — a custom C standard library implementation.  
-  🔗 `https://github.com/<your-github-username>/libft`
-- **ft_printf** — recreation of printf with full format handling and error management.  
-  🔗 `https://github.com/<your-github-username>/ft_printf`
-- **minishell** — a miniature Unix shell (parser, fork/exec, redirections, pipelines).  
-  🔗 `https://github.com/<your-github-username>/minishell`
-- **CNC Software** — current project for material shaping and JSON database automation.  
-  🔗 `https://github.com/<your-github-username>/cnc-software` *(add this link if public)*
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=renardo13&show_icons=true&theme=tokyonight)
