@@ -10,7 +10,7 @@ I’m a **42 student** and a **passionate developer** with a strong interest in 
 - Generates optimized toolpaths for shaping parts  
 - Collects and updates **production data in JSON** for database integration  
 
-This project blends **low-level programming**, **geometry**, and **data handling**, connecting mechanical precision with software intelligence.
+This project blends **low-level programming**, **geometry**, and **data handling**, **reverse engineering** connecting mechanical precision with software intelligence.
 
 ---
 
