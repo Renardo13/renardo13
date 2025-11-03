@@ -14,6 +14,10 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ---
 
+## Main collaboration projects
+- https://github.com/aautin/snow_crash
+- https://github.com/hckforpeace/Transcendance
+
 ## 🎯 What I Do
 - Write clean, maintainable **C** programs (libft, ft_printf, get_next_line).  
 - Build **CLI tools** and **automation scripts** (Bash & Python).  
