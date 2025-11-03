@@ -14,7 +14,7 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ---
 
-## Main collaboration projects
+## 🤝 Main collaboration projects
 - https://github.com/aautin/snow_crash
 - https://github.com/hckforpeace/Transcendance
 
