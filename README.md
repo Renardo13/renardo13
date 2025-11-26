@@ -44,9 +44,6 @@ This project blends **low-level programming**, **geometry**, and **data handling
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renardo13&layout=compact&theme=tokyonight)
-
----
 
 ## 🧠 About Me
 42 student — curious, autonomous, and collaborative. I value clean, tested, and well-documented code. Currently exploring **CTF challenges**, **system programming**, **automation**, and **industrial software design**.
