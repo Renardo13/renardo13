@@ -18,6 +18,7 @@ This project blends **low-level programming**, **geometry**, and **data handling
 - https://github.com/aautin/snow_crash
 - https://github.com/hckforpeace/Transcendance
 - https://github.com/renardo13/minishell
+- https://github.com/Renardo13/IRC
 
 ## 🎯 What I Do
 - Write clean, maintainable **C** programs (libft, ft_printf, get_next_line).  
